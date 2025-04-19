@@ -1,18 +1,4 @@
-<p align="center">
-  <a href="#">
-    <img src="https://badges.pufler.dev/visits/stefansphtr/Data-Analytics-Brazilian-Ecommerce" alt="Visits Badge">
-    <img src="https://badges.pufler.dev/updated/stefansphtr/Data-Analytics-Brazilian-Ecommerce" alt="Updated Badge">
-    <img src="https://badges.pufler.dev/created/stefansphtr/Data-Analytics-Brazilian-Ecommerce" alt="Created Badge">
-    <img src="https://img.shields.io/github/contributors/stefansphtr/Data-Analytics-Brazilian-Ecommerce" alt="Contributors Badge">
-    <img src="https://img.shields.io/github/last-commit/stefansphtr/Data-Analytics-Brazilian-Ecommerce" alt="Last Commit Badge">
-    <img src="https://img.shields.io/github/commit-activity/m/stefansphtr/Data-Analytics-Brazilian-Ecommerce" alt="Commit Activity Badge">
-    <img src="https://img.shields.io/github/repo-size/stefansphtr/Data-Analytics-Brazilian-Ecommerce" alt="Repo Size Badge">
-    <img src="https://img.shields.io/badge/contributions-welcome-orange.svg" alt="Contributions welcome">
-    <img src="https://www.codefactor.io/repository/github/stefansphtr/data-analytics-brazilian-ecommerce/badge" alt="CodeFactor" />
-  </a>
-</p>
 
-# <img src="./src/Logo-Dicoding-Academy.gif" width="50"> Project Data Analytics: Brazilian E-Commerce Public Dataset by Olist <img src="./src/Logo-Dicoding-Academy.gif" width="50">
 
 ## 📚 Table of Contents
 
@@ -38,7 +24,7 @@ Follow these steps to get the project up and running on your local machine:
    Clone the repository using git:
 
    ```bash
-   git clone https://github.com/stefansphtr/Data-Analytics-Brazilian-Ecommerce/tree/data-visualization.git
+   git clone [https://github.com/ChandanChoudhury7727/Data-Analytics-Brazilian-Ecommerce.git]
    ```
 
 2. **Set up a virtual environment** (Optional)
@@ -186,5 +172,3 @@ print("Thank you for reading! 🙏")
 ```
 
 **Thank you for reading! 🙏**
-
-<div align='center'><img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="1000"></div>
