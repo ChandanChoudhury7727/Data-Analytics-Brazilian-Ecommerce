@@ -105,36 +105,6 @@ Follow these steps to get the project up and running on your local machine:
     - Product Category sales performance
     - Daily sales performance
 
-## 🗂️ Entity Relationship Diagram
-
-![ERD](https://i.imgur.com/HRhd2Y0.png)
-
-The Entity Relationship Diagram (ERD) provides a comprehensive graphical view of the logical structure of our database. It helps to understand how different tables are related to each other in the database.
-
-The ERD for this project is defined in the [db_schema.vuerd.json](ERD/db_schema.vuerd.json) file and can be viewed using tools that support the Vuerd format.
-
-The diagram includes the following tables:
-
-- `customers_dataset`: This dataset has information about the customer and its location. Use it to identify unique customers in the orders dataset and to find the orders delivery location.
-  
-- `geolocation_dataset`: This dataset has information Brazilian zip codes and its lat/lng coordinates.
-  
-- `orders_dataset`: This is the core dataset of the project.
-  
-- `order_items_dataset`: This dataset includes data about the items purchased within each order.
-  
-- `order_payments_dataset`: This dataset includes data about the orders payment options.
-  
-- `order_reviews_dataset`: This dataset includes data about the reviews made by the customers.
-  
-- `products_dataset`: This dataset includes data about the products sold by Olist.
-  
-- `product_category_name_translation`: This dataset translates the product_category_name to english.
-  
-- `sellers_dataset`: This dataset includes data about the sellers that fulfilled orders made at Olist.
-
-Each table is linked to one or more other tables through foreign keys, representing the relationships between different entities in the e-commerce business model.
-
 ## 📈 Dashboard Explanation
 
 Follow these steps to run the dashboard on your local machine:
