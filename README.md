@@ -157,7 +157,20 @@ The dashboard provides a visual representation of sales performance data. Here's
 
 - **Explore the charts**
 
-   The dashboard includes two charts: Sales by Product Line and Sales by Day. These charts provide a visual representation of the sales data based on your filter selections.
+   The dashboard includes two charts: Sales by Product Line and Sales by Day. These charts provide a visual representation of the sales data based on your filter selections.Predictive Analytics:
+
+                Predict total order price based on input features like freight value and price.
+
+                Estimate delivery time using a Random Forest Regressor.
+
+                Classify review scores using a Random Forest Classifier.
+
+  ![Screenshot 2025-04-25 074332](https://github.com/user-attachments/assets/94c332bf-5001-4170-8e8b-7ff6dad10937)
+
+  ![Screenshot 2025-05-01 135907](https://github.com/user-attachments/assets/f90bcc13-03e9-4074-8793-e55014c80980)
+
+  ![f6f921c4e650d74d37c1b9329ba0c1ba8d8045faae554661054e37d6](https://github.com/user-attachments/assets/fd2c92da-44d2-4e41-9722-2558d5708d86)
+
 
 ```python
 print("Thank you for reading! 🙏")
