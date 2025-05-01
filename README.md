@@ -104,6 +104,31 @@ Follow these steps to get the project up and running on your local machine:
     
     - Product Category sales performance
     - Daily sales performance
+  
+    - Features
+Interactive Filters: Filter data by city, customer segment, and date range through an intuitive sidebar.
+
+Key Performance Indicators (KPIs): Display total sales, average rating, and average sales per order.
+
+Visualizations:
+
+Sales by Product Line: Horizontal bar chart showcasing sales distribution across product categories.
+
+Daily Sales: Bar chart illustrating sales trends over days.
+
+Predictive Analytics:
+
+Predict total order price based on input features like freight value and price.
+
+Estimate delivery time using a Random Forest Regressor.
+
+Classify review scores using a Random Forest Classifier.
+
+Monthly Sales Forecasting: Utilize an LSTM model to forecast sales for the upcoming month.
+
+Data Export: Download prediction results in CSV or Excel formats.
+
+Dark Mode UI: Enhanced user interface with a dark theme for better readability
 
 ## 📈 Dashboard Explanation
 
