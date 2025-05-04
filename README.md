@@ -7,7 +7,6 @@
   - [🎯 Introduction](#-introduction)
   - [💻 Installation](#-installation)
   - [🔄 Project Workflow](#-project-workflow)
-  - [🗂️ Entity Relationship Diagram](#️-entity-relationship-diagram)
   - [📈 Dashboard Explanation](#-dashboard-explanation)
 
 
